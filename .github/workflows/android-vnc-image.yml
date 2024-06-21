@@ -8,7 +8,7 @@ on:
 
 env:
   REPO_NAME: nuersir # 注意使用全小写
-  PROJECT_NAME: android-vnc
+  PROJECT_NAME: roid-vnc
 
 jobs:
 
